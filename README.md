@@ -1,2 +1,5 @@
+---
 # 0-noise-Invinsible-Cloak
-Fun computer vision with Python
+## Author: Christeen T Jose
+## [Project demonstration and Tutorial](https://www.youtube.com/channel/UCeI3SXVHNEL5mBKKgewvJ1Q/)
+---
